@@ -1,4 +1,2 @@
-import { Console } from "console";
-
-let messege = "Hello World";
-console.log(messege);
+const personalName : string = "Eric";
+console.log("hello", personalName, "would you like to learn some Python today?" );
